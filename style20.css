@@ -1,0 +1,30 @@
+table,th,td{
+	border: 1px solid black; 
+	border-collapse: collapse;
+    width: 25%;
+    height: 25%;
+ }
+
+ .left{
+     text-align: left;
+ }
+
+
+
+ .right{
+     text-align: right;
+ }
+
+
+ .color{
+    background-color: red;
+    color: white;
+ }
+
+ .color2{
+     background-color: orange;
+ }
+
+ .text{
+     font-size: 100%;
+ }
